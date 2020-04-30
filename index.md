@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<link href="normalize.css" rel="stylesheet">
-		<link href="css/stylesheet.css" rel="stylesheet">
+		<link href="stylesheet.css" rel="stylesheet">
 		
 		
 		
