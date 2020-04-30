@@ -8,12 +8,7 @@
 		<title>  Learning Journal template</title><!--web page title -->
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
-		<link href="normalize.css" rel="stylesheet">
-		<link href="stylesheet.css" rel="stylesheet">
-		
-		
-		
+						
 	</head>
 	
 	
@@ -28,7 +23,7 @@
         <!-- This is code used from https://www.w3schools.com/howto/default.asp -->
      	<div class="topnav"> 
   <a class="active" href="#home">Learning Journal</a>
-  <a href="tutorial.html"> Tutorial</a>
+  
 </div>
 
 
