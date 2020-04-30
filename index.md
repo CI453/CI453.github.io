@@ -55,7 +55,7 @@
 </figure>
 
 <header>
-	<h1> Welcome to the fundamentals of Networking, Cyber Security and Information!!<h1>
+	<h1> Welcome to the fundamentals of Networking, Cyber Security and Information!!</h1>
 			
 </header>
 
