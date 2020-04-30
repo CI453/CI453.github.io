@@ -60,7 +60,7 @@
 </header>
 
 <article>
-	<p> This website is going to invclude the basic principles of information technologies and how they can be used to connect users all over the world in a safe and secure fashion that allows users to exchange information with each other without exposing them to any dangers.
+	<p> This website is going to include the basic principles of information technologies and how they can be used to connect users all over the world in a safe and secure fashion that allows users to exchange information with each other without exposing them to any dangers.
 			        </p>
 
 
