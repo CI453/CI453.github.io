@@ -29,7 +29,6 @@
      	<div class="topnav"> 
   <a class="active" href="#home">Learning Journal</a>
   <a href="tutorial.html"> Tutorial</a>
-  <a href="contact.html"> Contact me</a>
 </div>
 
 
@@ -38,18 +37,6 @@
 <div class="dropdown" style="float:right;">
     
   <button class="dropbtn">Week Selection </button>
-  
-  <div class="dropdown-content">
-  <a href="#w1">Week 1</a>
-  <a href="#w2">Week 2</a>
-  <a href="#w3">Week 3</a>
-  <a href="#w4">Week 4</a>
-  <a href="#w5">Week 5</a>
-  <a href="#w6">Week 6</a>
-  <a href="#w7">Week 7</a>
-  <a href="#w8">Week 8</a>
-  <a href="#w9">Week 9</a>
-  </div>
 </div>
 
     
@@ -62,74 +49,19 @@
 	<!--The 'wrapper' contains all the page content-->
 	
     <header class = "banner"><!--The main heading for the page -->
-		<h1> Semester 1 Learning Journal</h1>
+		<h1> Semester 2 Cyber Security Information Website</h1>
 		<h2> Assessed Coursework</h2>
 	</header>
 	
 	
 	<figure>
-<img src="images/wallpaper.jpg" alt = ""/> 
 
 
 </figure>
-      
-      <table>
-  <tr>
-    <th>Time</th>
-    <th>Monday</th>
-    <th>Tuesday</th>
-  </tr>
-  <tr>
-    <td>9:00-10:00</td>
-    <td>Cyber Security (Lecture) (CI404)</td>
-    <td>Free Period</td>
-  </tr>
-  <tr>
-    <td>10:00-11:00</td>
-    <td>Cyber Security (Lecture) (CI404)</td>
-    <td>Programming for business (Lecture) (CI418)</td>
-</tr>
-  <tr>
-       <td>11:00-12:00</td>
-    <td>Free period</td>
-    <td>Programming for business (Lab) (CI418)</td> 
-    </tr>
-  <tr>
-       <td>12:00-13:00</td>
-    <td>Free period</td>
-    <td>Free period</td> 
-    </tr>
-  <tr>
-       <td>13:00-14:00</td>
-    <td>Free period</td>
-    <td>Web Development (Lecture) (CI435)</td> 
-       </tr>
-  <tr>
-       <td>14:00-15:00</td>
-    <td>Working in Computing Industry (Lecture) (CI453)</td>
-    <td>Cyber Security (Lab) (CI404)</td> 
-       </tr>
-  <tr>
-       <td>15:00-16:00</td>
-    <td>Databases/Computing Technologies (Lecture) (CI402/CI405)</td>
-    <td>Cyber Security (Lab) (CI404) </td> 
-       </tr>
-  <tr>
-       <td>16:00-17:00</td>
-    <td>Databases (Lab) (CI402)</td>
-    <td>Web Development (Lab) (CI435) </td> 
-  
-</table>
-        
-
-        	<h2>Weekly Posts</h2>
-        	
-        	
-        	<a id="w9"></a>
 
 <header>
 			<h3>Week 9 - CSS3 Responsive Layout </h3>
-				<p>Published on <time datetime="2019-11-25">November 25, 2019</time></p>
+			
 </header>
 			
 		
@@ -577,13 +509,7 @@ In this tutorial I learned about the key components of a website, listed below -
                 </ol>
             
         </aside>    
-  
-	<footer><!--Footer content -->
-	<p><a href="#top">Go to top of page</a></p>
-		<small>&copy; 2019, author.</small>
-		<a href="mailto:jw1352@brighton.ac.uk">Email Jake Wright</a>
-		
-	</footer>
+ 
 
 	</div><!--Close 'wrapper' div -->
 </body><!--Close 'body' -->
