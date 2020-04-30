@@ -35,16 +35,6 @@ input[type="submit"] {
 	border-radius: 3px;
 	transition: all .5s ease-in-out;
 }
-input[type="submit"]:hover {
-	color:#DC143C;
-	background-color:#fff;
-	border-color:#adadad}
-
-input[type="submit"]:focus {
-	color:#DC143C;
-	background-color:#fff;
-	border-color:#adadad}
-
 
 
 .column {
@@ -105,11 +95,11 @@ table, th, td {
 
 body {
 
-background-color: #FFFFFF;
+background-color: #000000;
 
 font-family: Verdana, Geneva, sans-serif;
 
-color: #00ff00;
+color: #FFFFFF;
 
 font-size: 16px;
 
