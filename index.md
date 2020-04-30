@@ -31,7 +31,7 @@
 
 <div class="dropdown" style="float:right;">
     
-  <button class="dropbtn">Week Selection </button>
+
 </div>
 
     
@@ -55,53 +55,15 @@
 </figure>
 
 <header>
-			<h3>Week 9 - CSS3 Responsive Layout </h3>
+	<h1> Welcome to the fundamentals of Networking, Cyber Security and Information!!
 			
 </header>
-			
-		
-			    
-			<article>
-			    
-			    <p> In the final tutorial, Week 9, we are taught how to implement a form into our website in order to receive feedback from our users, much like every profressional website does.
+
+<article>
+	<p> This website is going to invclude the basic principles of information technologies and how they can be used to connect users all over the world in a safe and secure fashion that allows users to exchange information with each other without exposing them to any dangers.
 			        </p>
 
-            	<div class="fltlt">
-   		
-   		
-    		<img src="images/Form1.PNG" alt="">
-		</div>
-    		<p>As you can see in this image here, I had to create a new from in the contact page html. For each piece of data that I wanted, I had to create a new label for, as you can see by 'Name', 'Email address' and 'Website URL'. As well as this, I had to ensure that the wbesite recognised the users input as text.</p>
 
-		<p class="clear"></p>
-		
-		
-		
-		  <div class="fltrt">
-   		
-   		
-    		<img src="images/Form2.PNG" width = "600" alt="">
-		</div>
-    		<p>After creating the form I moved on to the next step which was creating a 'textarea', a place in which users can leave any extra comments/thoughts they may have. This was relatively simple as you just simply declare where exactly you want the textarea, in this case, below the detail submission form.</p>
-    		
-    		<blockquote>
-		    <p> On top of this I also edited the CSS of the from to ensure it was in the same style as the rest of my website, hence the colour of the borders/text etc.</p>
-		    </blockquote>
-
-		<p class="clear"></p>
-		
-		
-		
-        <div class="fltlt">
-   		
-   		
-    		<img src="images/Form3.PNG" height = "350" width = "600" alt="">
-		</div>
-    		<p> The last thing I added to the contact page was something called a Radio Group, which consists of two or more buttons, of which the user can only pick one to input. To ensure the buttons work, it is essential they are both associated with a group in which the name values are identical. In this case it is a simple case of the user ticking yes or no.</p>
-    		
-    		<blockquote>
-		    <p> As you can see in the image to the left, I changed the CSS of the 'submit'/'send' buttons in order to ensure they stand out as much as possible to the user. I have also ensure the borders around each section are clear so the user can clearly see what information they are inputting.</p>
-		    </blockquote>
 
 		<p class="clear"></p>
 
