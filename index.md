@@ -105,7 +105,7 @@
 
 <a id="w6"></a>
 <header>
-			<h3 Techniques for avoiding/minimising privacy threats </h3>
+			<h3> Techniques for avoiding/minimising privacy threats </h3>
 				
 			</header>
 			
