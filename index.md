@@ -22,7 +22,7 @@
     <a id="top"></a>
         <!-- This is code used from https://www.w3schools.com/howto/default.asp -->
      	<div class="topnav"> 
-  <a class="active" href="#home">Learning Journal</a>
+  <a class="active" href="#home"></a>
   
 </div>
 
