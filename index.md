@@ -2,7 +2,10 @@
 
 <body>
     
-
+<link href="normalize.css" rel="stylesheet">
+<link href="stylesheet.css" rel="stylesheet">
+    
+    
     
     <a id="top"></a>
      	<div class="topnav"> 
