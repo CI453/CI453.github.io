@@ -7,9 +7,9 @@
     <a id="top"></a>
      	<div class="topnav"> 
   <a class="active" href="#home"></a>
-  <a href="SecurityMechanisms.html"> Security Mechanisms</a>
-  <a href="Privacy.html"> Privacy</a>
-  <a href="PrivacyThreats.html"> Privacy threats</a>
+  <a href="SecurityMechanisms.md"> Security Mechanisms</a>
+  <a href="Privacy.md"> Privacy</a>
+  <a href="PrivacyThreats.md"> Privacy threats</a>
   
 </div>
 
