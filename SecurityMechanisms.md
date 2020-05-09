@@ -1,5 +1,7 @@
 <html lang="en"><!--default language of the document content -->
 
+<div id="wrapper">
+
 <body>
     
 
@@ -36,7 +38,7 @@
 
 
 <article>
-	<p> This page will detail the tthings you need to know regarding computer/networking security systems
+	<p> This page will detail the things you need to know regarding computer/networking security systems
 			        </p>
 
 
