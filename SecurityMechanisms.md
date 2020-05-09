@@ -1,7 +1,5 @@
 <html lang="en"><!--default language of the document content -->
 
-<div id="wrapper">
-
 <body>
     
 
@@ -33,17 +31,106 @@
 	<!--The 'wrapper' contains all the page content-->
 	
     <header class = "banner"><!--The main heading for the page -->
-		<h1> Secutiy Mechanisms</h1>
+		<h1> Semester 2 Cyber Security Information Website</h1>
+		<h2> Assessed Coursework</h2>
 	</header>
+	
+	
+	<figure>
 
+
+</figure>
+
+<header>
+	<h1> Welcome to the fundamentals of Networking, Cyber Security and Information!!</h1>
+			
+</header>
 
 <article>
-	<p> This page will detail the things you need to know regarding computer/networking security systems
+	<p> This website is going to include the basic principles of information technologies and how they can be used to connect users all over the world in a safe and secure fashion that allows users to exchange information with each other without exposing them to any dangers.
 			        </p>
 
 
+
+		<p class="clear"></p>
+
+		
+		
+
+			</article>
+			
+<a id="security"></a>
+
+
+<header>
+	<h3> Security mechanisms </h3>
+			
+</header>
+
+
+<article>
+    <p> </p>
+    
+        
+</article>
+
+
+<a id="privacy"></a>
+
+<header>
+			<h3> Privacy in business information systems  </h3>
+				
+			</header>
+
+<article>
+    
+    <p> </p>
+   
+</article>
+
+
+
+<a id="w6"></a>
+<header>
+			<h3> Techniques for avoiding/minimising privacy threats </h3>
+				
+			</header>
+			
+			
+<article>  
+<p></p>
+
+<p></p>
+
+
+</article>
+
+
+        <aside>
+        
+        	<h2>References</h2>
+            
+            	<ol>
+                    <li>
+                    <cite>
+                <a href=""> </a>
+                            
+                    </cite>  
+                    </li>
+
+
+                    <li>
+                    <cite>
+                <a href=""> </a>
+                            
+                    </cite>  
+                    </li>
+                </ol>
+            
+        </aside>    
  
 
 	</div><!--Close 'wrapper' div -->
 </body><!--Close 'body' -->
 </html><!--Close 'html' -->
+
