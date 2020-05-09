@@ -9,7 +9,7 @@
   <a class="active" href="#home"></a>
   <a href="SecurityMechanisms.html"> Security Mechanisms</a>
   <a href="Privacy.html"> Privacy</a>
-  <a href="Privacy threats.html"> Privacy threats</a>
+  <a href="PrivacyThreats.html"> Privacy threats</a>
   
 </div>
 
