@@ -1,28 +1,15 @@
-<!doctype html><!--HTML5 doctype declaration -->
-
 <html lang="en"><!--default language of the document content -->
-
-
-    <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<!--character encoding for the document (Unicode) -->
-		<title>  Learning Journal template</title><!--web page title -->
-		
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-						
-	</head>
-	
-	
-	
-
 
 <body>
     
 
     
     <a id="top"></a>
-        <!-- This is code used from https://www.w3schools.com/howto/default.asp -->
      	<div class="topnav"> 
   <a class="active" href="#home"></a>
+  <a href="SecurityMechanisms.html"> SecurityMechanisms</a>
+  <a href="Privacy.html"> Privacy</a>
+  <a href="Privacy threats.html"> Privacy threats</a>
   
 </div>
 
