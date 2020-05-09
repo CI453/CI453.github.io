@@ -1,0 +1,47 @@
+<html lang="en"><!--default language of the document content -->
+
+<body>
+    
+
+    
+    <a id="top"></a>
+     	<div class="topnav"> 
+  <a class="active" href="#home"></a>
+  <a href="index.md"> Home</a>
+  <a href="Privacy.md"> Privacy</a>
+  <a href="PrivacyThreats.md"> Privacy threats</a>
+  
+</div>
+
+
+
+
+<div class="dropdown" style="float:right;">
+    
+
+</div>
+
+    
+    	<div id="wrapper">
+   
+     
+ 
+<!--Markup all web page content inside the 'body' tags -->
+
+	<!--The 'wrapper' contains all the page content-->
+	
+    <header class = "banner"><!--The main heading for the page -->
+		<h1> Secutiy Mechanisms</h1>
+	</header>
+
+
+<article>
+	<p> This page will detail the tthings you need to know regarding computer/networking security systems
+			        </p>
+
+
+ 
+
+	</div><!--Close 'wrapper' div -->
+</body><!--Close 'body' -->
+</html><!--Close 'html' -->
